@@ -1,0 +1,17 @@
+{
+    "name": "vincentts/wp-models",
+    "description": "Wrapper models around WP_Query",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vincentts\\WpModels\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vincent Sutanto"
+        }
+    ],
+    "require": {}
+}
