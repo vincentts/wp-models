@@ -13,5 +13,7 @@
             "name": "Vincent Sutanto"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    }
 }
