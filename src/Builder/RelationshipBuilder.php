@@ -3,8 +3,8 @@
 namespace Vincentts\WpModels\Builder;
 
 use WP_Post;
-use Models\PostModel;
-use Models\TermModel;
+use Vincentts\WpModels\PostModel;
+use Vincentts\WpModels\TermModel;
 use Exception;
 
 trait RelationshipBuilder {
